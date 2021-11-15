@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["🌠🌠","🌠S🌠", "🌠So🌠", "🌠Soc🌠", "🌠Soci🌠", "🌠Socia🌠", "🌠Social🌠", "🌠Social 🌠", "🌠Social M🌠", "🌠Social Me🌠", "🌠Social Med🌠", "🌠Social Medi🌠", "🌠Social Media🌠"];
+var titleText = ["H,He,Her,Herr,HerrF,HerrFi,HerrFis,HerrFisc,HerrFisch, WEEEEE"];
 
 function loop() {
 
