@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["H,He,Her,Herr,HerrF,HerrFi,HerrFis,HerrFisc,HerrFisch, WEEEEE"];
+var titleText = ["H, He , Her , Herr , HerrF , HerrFi , HerrFis , HerrFisc , HerrFisch , WEEEEE"];
 
 function loop() {
 
